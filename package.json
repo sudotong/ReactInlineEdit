@@ -1,5 +1,5 @@
 {
-  "name": "react-edit-inline",
+  "name": "@sudotong/react-edit-inline",
   "version": "1.0.8",
   "description": "A simple inline text editor for React with ECMAScript 6 + JSX Harmony syntax",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaivi/ReactInlineEdit.git"
+    "url": "git+https://github.com/sudotong/ReactInlineEdit.git"
   },
   "keywords": [
     "react",
@@ -21,12 +21,12 @@
     "input",
     "form"
   ],
-  "author": "Kai Vik <kvi@ieee.org>",
+  "author": "Sam U <sam@fireflies.ai>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaivi/ReactInlineEdit/issues"
+    "url": "https://github.com/sudotong/ReactInlineEdit/issues"
   },
-  "homepage": "https://github.com/kaivi/ReactInlineEdit#readme",
+  "homepage": "https://github.com/sudotong/ReactInlineEdit#readme",
   "peerDependencies": {
     "react": "^0.14.6 || 15.x.x"
   },
